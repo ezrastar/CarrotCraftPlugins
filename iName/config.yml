@@ -1,0 +1,18 @@
+### iNAME OFFICIAL YAML FILE CONFIGURATION ###
+### EDIT THIS FILE AS YOU WISH! IF IT BREAKS, DELETE IT ###
+### USE EITHER "&" OR "§" IN ORDER TO USE COLOR CODES ###
+
+# If Vault isn't enabled, this will be ignored (Ability to charge).
+enableVault: true
+
+# Price to rename an item.
+namePrice: 50000
+
+# Price to relore an item.
+lorePrice: 25000
+
+# Price to delete an item's name.
+namePriceDel: 0
+
+# Price to delete an item's lore.
+lorePriceDel: 0

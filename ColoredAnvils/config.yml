@@ -1,0 +1,24 @@
+#
+# Thank you for using ShortCut!
+# Make sure you have the most upto date version from modrinth:
+# https://modrinth.com/mod/coloredanvils
+#
+# Placeholders are supported!
+#
+
+WHITE_DYE: FFFFFF
+ORANGE_DYE: FFAA00
+MAGENTA_DYE: FF00FF
+LIGHT_BLUE_DYE: 5555FF
+YELLOW_DYE: FFFF55
+LIME_DYE: 55FF55
+PINK_DYE: FF55FF
+GRAY_DYE: "555555"
+LIGHT_GRAY_DYE: AAAAAA
+CYAN_DYE: 55FFFF
+PURPLE_DYE: AA00AA
+BLUE_DYE: 0000AA
+BROWN_DYE: "834333"
+GREEN_DYE: 00AA00
+RED_DYE: FF5555
+BLACK_DYE: "000000"

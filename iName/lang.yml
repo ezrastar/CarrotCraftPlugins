@@ -1,0 +1,56 @@
+### iNAME OFFICIAL LANG FILE CONFIGURATION ###
+### EDIT THIS FILE AS YOU WISH! IF IT BREAKS, DELETE IT ###
+### USE EITHER "&" OR "§" IN ORDER TO USE COLOR CODES ###
+### BE CAREFUL WHEN USING THE ' CHARACTER ###
+
+# The plugin's in-game prefix. Use the %prefix% regex if you wish to use it for any other message(s).
+prefix: '&8[&eiName&8]&6'
+
+# String sent when the console attempts to execute any of these commands.
+notPlayer: '%prefix% You must be in-game in order to use that command.'
+
+# String sent when the player doesn't have permission to use the command.
+noPerms: '%prefix% You do not have permission to use that command.'
+
+# String sent when there are no arguments.
+# Available modifier: %command% - Displays the command.
+noArgs: '%prefix% Incorrect syntax! Try: &c/%command% <text> | /%command% delete'
+
+# String sent when the player is not holding any item.
+noItem: '%prefix% You are not holding anything!'
+
+# String sent when the player holds more than 1 item.
+moreItem: '%prefix% You are holding more than &c1 &6item!'
+
+# String sent when the player tries to delete and item's name/lore while it has default data.
+noData: '%prefix% You cannot reset the default data of an item.'
+
+# String sent when the player doesn't have enough coins to rename their item.
+# Available modifier: %nameprice% - Displays the /rename command price.
+noBal_Name: '%prefix% You do not have enough coins!'
+
+# String sent when the player doesn't have enough coins to relore their item.
+# Available modifier: %loreprice% - Displays the /relore command price.
+noBal_Lore: '%prefix% You do not have enough coins!'
+
+# String sent when the player doesn't have enough coins to delete their item's name.
+# Available modifier: %delnameprice% - Displays the /rename delete command price.
+noBalDel_Name: '%prefix% You do not have enough coins!'
+
+# String sent when the player doesn't have enough coins to delete their item's lore.
+# Available modifier: %delloreprice% - Displays the /relore delete command price.
+noBalDel_Lore: '%prefix% You do not have enough coins!'
+
+### Available modifier from THIS point: %item% - Displays the item's name.
+
+# String sent when the player successfully renames their item.
+nameSet: '%prefix% &c%item% &6has had its name changed.'
+
+# String sent when the played successfully relores their item.
+loreSet: '%prefix% &c%item% &6has had its lore changed.'
+
+# String sent when the player successfully deletes their item's name.
+nameDelete: '%prefix% &c%item% &6has had its name reset.'
+
+# String sent when the player successfully deletes their item's lore.
+loreDelete: '%prefix% &c%item% &6has had its lore reset.'

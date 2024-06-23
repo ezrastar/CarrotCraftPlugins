@@ -1,0 +1,8 @@
+{
+  "enableNumberFormatSell": false,
+  "blacklistPlayers": [],
+  "enableSQLScript": true,
+  "cacheDurationCategory": 0,
+  "cachePlaceholderDurationMillis": 60000,
+  "placeholderLoader": "Loading..."
+}
