@@ -1,0 +1,43 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719110645045
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719115644727
+  login: 1719115162536
+  kits:
+    dtools: 1719012639172
+    starter: 1719013140715
+    op_sword: 1719041890613
+money: '420'
+last-account-name: HeyItzSock
+logoutlocation:
+  world: 344bd868-bbe8-47ab-b9bc-ff4610a792d9
+  world-name: world
+  x: 1093.911049664979
+  y: 76.0
+  z: -474.39088656740273
+  yaw: 94.07345581054688
+  pitch: 13.350068092346191
+lastlocation:
+  world: 344bd868-bbe8-47ab-b9bc-ff4610a792d9
+  world-name: world
+  x: 1093.4494162609528
+  y: 100.69952164409001
+  z: -491.5654486197248
+  yaw: -4.9798583984375
+  pitch: 21.000640869140625
+nickname: Millie

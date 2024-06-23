@@ -1,0 +1,7 @@
+Name: '&6Carrot &dKey'
+Virtual: false
+Item:
+  Material: CARROT
+  Name: '&6Carrot&d Key'
+  Lore:
+  - 'Make sure you dont eat it '

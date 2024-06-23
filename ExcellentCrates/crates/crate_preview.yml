@@ -1,0 +1,184 @@
+Name: Carrot Crate
+Preview_Config: default
+Permission_Required: false
+Opening:
+  Cooldown: 0
+Key:
+  # Sets whether or not keys are required to open this crate.
+  Required: true
+  Ids:
+  - carrot_crate
+Block:
+  Locations:
+  - 1080.0,78.0,-465.0,0.0,0.0,world
+  Pushback:
+    Enabled: false
+  Hologram:
+    Enabled: true
+    Template: default
+    Y_Offset: 0.0
+  Effect:
+    Model: SPIRAL
+    Particle:
+      Name: COMPOSTER
+Milestones:
+  Repeatable: false
+Rewards:
+  List:
+    carrot_sword:
+      Name: '&6Carrot &dSword'
+      Weight: 25.0
+      Rarity: common
+      Broadcast: true
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Preview: 1800020009km800pdlkmspb3e9gmct1qdpin8q35e9kn8pavedrmusj418006t31cs5001r4d5pn0r31f440012ec5mma066fch78pboegh3k8h25gh6au3ke9gi4eirfch78pboegh3k8i3c5p74rrk48m24rr2cpqn6or1ehim88hqcpgmosr55gh6it31dhkm68hqcpgmosr55gh7arj4clp6oqbecli24ej6c5m76p9c49pn8sj9ddin8q3idtqmeq1279j62r3jckm24orfdhnn48hq49jmur3448m24ojfdhi24ej6c5m76pbt5hti4t35f1q24eh2419nerricgh2o8j9ehgmoqb348t6cobcediio8j3dtm6ush278h6oqb7d1q5us3le9o6op92flenq0090064arj3d1gmst3dcln78soa000000880016ip002dmmirj5cdp62pjk79pmgobie1n6asrj08006r3mdg00a001005larj2e9im2qr1c9m6a08300348obdc5jma0000000600f8dqn6t3fdl6mup35dh262t3100005hg00400agrfeln78080
+      Commands: []
+      Items:
+      - a0000g002d5i006bdd5n6aoric5j78ejeclq6gpbid5q6anrjetnn4p0a001n8ob70c00ugrledq6uraddti6ar24c5q620000b30i00c8ln66q31dpq6qpbeehpgk000000gg002d5i004rdd5n6aoric5j78ejjd1gn4s3eclpn60g00dm7cr000k00200baln64sj5c5lm2ojcck0g60068hgmqob7ck0000001800ep39edo6oobp10008jj1dlig1hjr49q6au3k48t248hc49ingt3ic4h3kmrr49q6au3k48t24gr1e9p6ut125gh6uoj6elpm6obkcli24ej6c5m76p9c49kn8obcd5hi4ej6c5m76p9c49qmsp35e9m6irj5cgh3kpj1dhpmab12edq74qbbclq6gsjfeljmg8hqcpgmosr55gh66rrcdtp24eh2ctnmop125gh64rrccgh3kpj1dhpmav9cfch78pboegh3k8h0adrmusj448m24qbkc5m6iop279j62r3jckm24orfdhnn48hq49m6ipr8ehfn0tbie1m6a8jtblugi0049hnn4p88000000807pti4t35f1q24eh248m24pboehp628hqbch78q39ecg56trfe9i20qbj41mm2p3541j74rrd41gi0i3lctii0gr1e9p6ut1049enq0000400agrfeln78080
+      Ignored_For_Permissions: []
+    carrot_shovel:
+      Name: '&6Carrot &dShovel'
+      Weight: 25.0
+      Rarity: common
+      Broadcast: true
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Preview: 1800020009km800qdlkmspb3e9gmct1qdpin8q35e9kn8pavedk6utj5dg5000rkc5jgk007chkn6s3cc5sgg0049pgmqp80otti4t35f1q24eh248m24pboehp628hqbdti4t35f1q24eh28dgn4sjfegg24b12dth6ctbjcdgn8pb448t6cobcediio8j9ehgmoqb348t6cobcediio8jldpi6asjcd5n6ap1279j62r3jckm24srke9kmmpbkd1p6utb7d0h3kpj1dhpmab12cdnmorri48t24prfdhi24b12c9nmop1279j62r3jcluioup2ehingt1278h56q3fepimo8hc49kn8obcd5hi4ej6c5m76p9c49hmur3fe8h3k8jcd5jmgt2ve1qn4s3cckh7qnbt14008j3fe9igg000001008rr49q6au3k48t248hc49ingt3ic4h3kmp2ahimopbgc5q6gu9094h5qv806hti4t35f1q24eh248m24pboehp628hqbch58q31ehpi0rreckg6up3441m6urrbd5n20gr1e9p6ut1049enq00a00950tb2dhkm6gjlddlmit2mc5m7apbj1001uoric5t7ipbecdk62rjkdlimst3j79hn4obqf5imsor8c5n78so03hti4pbecdk62rjkech3kup2ahimopbgc5q6gu9278onqv801400ohbecdk62rjkdlimst3j1800000210004qb400a6qqbeclhn4ob6egt6apj6d5hmipbecdsg4003dhr6o006004000j9cg012rb9dpim6sj1cpq3kpjfe9q7arj508006r3mdg00c001005larj2e9im2qr1c9m6a08300348obdc5jma0000000600f8dqn6t3fdl6mup35dh262t31000000g00400agrfeln78080
+      Commands: []
+      Items:
+      - 1800020009km800qdlkmspb3e9gmct1qdpin8q35e9kn8pavedk6utj5dg5000rkc5jg600f8dqn6t3fdl6mup35dh262t31000000ga00950tb2dhkm6gjlddlmit2mc5m7apbj1001uoric5t7ipbecdk62rjkdlimst3j79hn4obqf5imsor8c5n78so03hti4pbecdk62rjkech3kup2ahimopbgc5q6gu9278onqv801400ohbecdk62rjkdlimst3j1800000210004qb400a6qqbeclhn4ob6egt6apj6d5hmipbecdsg4003dhr6o006004000j9cg012rb9dpim6sj1cpq3kpjfe9q7arj508006r3mdg00c001005larj2e9im2qr1c9m6a08300348obdc5jma0000000k007chkn6s3cc5sgg0049pgmqp80otti4t35f1q24eh248m24pboehp628hqbdti4t35f1q24eh28dgn4sjfegg24b12dth6ctbjcdgn8pb448t6cobcediio8j9ehgmoqb348t6cobcediio8jldpi6asjcd5n6ap1279j62r3jckm24srke9kmmpbkd1p6utb7d0h3kpj1dhpmab12cdnmorri48t24prfdhi24b12c9nmop1279j62r3jcluioup2ehingt1278h56q3fepimo8hc49kn8obcd5hi4ej6c5m76p9c49hmur3fe8h3k8jcd5jmgt2ve1qn4s3cckh7qnbt14008j3fe9igg000001008rr49q6au3k48t248hc49ingt3ic4h3kmp2ahimopbgc5q6gu9094h5qv806hti4t35f1q24eh248m24pboehp628hqbch58q31ehpi0rreckg6up3441m6urrbd5n20gr1e9p6ut1049enq0000400agrfeln78080
+      Ignored_For_Permissions: []
+    carrot_shield:
+      Name: '&6Carrot&d Shield'
+      Weight: 25.0
+      Rarity: common
+      Broadcast: true
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Preview: a0000g002d5i0043dd5n6aoric5j78ejjd1kmar3418006t31cs5004igelh6oqb389qmmqr9ehb62r3lclpgg00vcdp62ujpcln66q31dpq6qpbeehpjkoric5t7ipbecdk62rjkec01qup2cln66q31dpq768hqfch44tbidp9mgqb5dhi24ehhflug02g00ti6isrgdhgni2000h762rb5033nm8jkcls788hq48h2o8j5f1q74o9279dnm8jkcls788hq491m2sjidtq24b12dth6ctbjcdgn8pb448t6cobcediio8j9ehgmoqb348t6cobcediio8jldpi6asjcd5n6ap1279j62r3jckm24srke9kmmpbkd1p6utb7d0h3kpj1dhpmab12cdnmorri48t24prfdhi24b12c9nmop1279j62r3jcluioup2ehingt1278h20kr8d5imop125gh6it31dhkm68hqcpgmosr55gh66rrcdtp24eh2dhkmeq3kbto7asjgdhii4vatfk4g012cdtp6a20000002016fch6it31dhkm68hqcpgmosr55gh78pboegh3k8i2elp6skr8d5imop1094h7q001005larj2e9im2qr1c9m6a08300348obdc5jma0000000600f8dqn6t3fdl6mup35dh262t3100007r000400agrfeln78080
+      Commands: []
+      Items:
+      - a0000g002d5i0043dd5n6aoric5j78ejjd1kmar3418006t31cs5004igelh6oqb389qmmqr9ehb62r3lclpgg00vcdp62ujpcln66q31dpq6qpbeehpjkoric5t7ipbecdk62rjkec01qup2cln66q31dpq768hqfch44tbidp9mgqb5dhi24ehhflug02g00ti6isrgdhgni2000h762rb5033nm8jkcls788hq48h2o8j5f1q74o9279dnm8jkcls788hq491m2sjidtq24b12dth6ctbjcdgn8pb448t6cobcediio8j9ehgmoqb348t6cobcediio8jldpi6asjcd5n6ap1279j62r3jckm24srke9kmmpbkd1p6utb7d0h3kpj1dhpmab12cdnmorri48t24prfdhi24b12c9nmop1279j62r3jcluioup2ehingt1278h20kr8d5imop125gh6it31dhkm68hqcpgmosr55gh66rrcdtp24eh2dhkmeq3kbto7asjgdhii4vatfk4g012cdtp6a20000002016fch6it31dhkm68hqcpgmosr55gh78pboegh3k8i2elp6skr8d5imop1094h7q001005larj2e9im2qr1c9m6a08300348obdc5jma0000000600f8dqn6t3fdl6mup35dh262t3100007r000400agrfeln78080
+      Ignored_For_Permissions: []
+    carrot_pickaxe:
+      Name: Carrot Pickaxe
+      Weight: 25.0
+      Rarity: common
+      Broadcast: true
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Preview: k00010004qb400dmqqbeclhn4ob6egt6spbkd1in4qbkclfn0qb3ddgngp8a001n8ob71800ep39edo6oobp10008jj1dlig1i3r49q6au3k48t248hc49ingt3ic4h3kmrr49q6au3k48t24gr1e9p6ut125gh6uoj6elpm6obkcli24ej6c5m76p9c49kn8obcd5hi4ej6c5m76p9c49qmsp35e9m6irj5cgh3kpj1dhpmab12edq74qbbclq6gsjfeljmg8hqcpgmosr55gh66rrcdtp24eh2ctnmop125gh64rrccgh3kpj1dhpmav9cfch78pboegh3k8h0a1km6qr1f1ii4b12d5q62r39cch3kpj1dhpmab12cdnmorri48t24r39ctk78nrgelp70r3549ulqv890024orrick4000000g026up2ehingt1278h24b12cls78sj148t5m8i1elq6ukrdclm7882949enq013fch78pboegh3k8h25gh6au3ke9gi4eir49a6ar35e1gn8q3p414i4nbt00g7m8jkcls788hq48h2o8j5f1q74o9279di4i31edq6a829aoh5qv8071ti4t35f1q24eh248m24pboehp628hqbch48obddog78q39ecg66obie9nn8832e9im2qrj41pn8rreckvju812blug02g02987aojcd5hk4tbbddkn8lj1dhqmaso800fm6sj1f9smarj3d1gmst3dcln78spqcdp62ujpcln66q31dpq7601kfch6arj3d1gmst3j48t7m8ikclm6as31ehk7i8hq64m24gblehnl6rb5dhq24ehh5gh4gobjehii4ehkflug02801h2msor8c5n78rb5dpq762g00000220009km800kdlkmspb3e9gmct1qclj6cqb3d5imsorp08006r3mdg00a001005larj2e9im2qr1c9m6a08300348obdc5jma0000000600f8dqn6t3fdl6mup35dh262t31000001o00400agrfeln78080
+      Commands: []
+      Items:
+      - k00010004qb400dmqqbeclhn4ob6egt6spbkd1in4qbkclfn0qb3ddgngp8a001n8ob70c00ugrledq6uraddti6ar24c5q62000003gk00ia1qm4r39cd17aqrbd5q5cobcelin62003thn4obqf5imsor8c5n78rb5dpq76ej3e9gnkub5dphmgobeehpg0d3r49imsor8c5n78sp279ti4l35dhin0obkd1si4ehh5gh42tbkdt9mqpbcegh3kc9c49462srkckh3kd3tfk00i00c8ln66q31dpq6qpbeehpgk000000gg002d5i0053dd5n6aoric5j78ej5cpj6ior9cln66u82001motjc002g00801damsojiclgmmob2dhig20o00p262rb1ctig0000005001r4d5pn0r31f440012ec5mma068fch78pboegh3k8h25gh6au3ke9gi4eirfch78pboegh3k8i3c5p74rrk48m24rr2cpqn6or1ehim88hqcpgmosr55gh6it31dhkm68hqcpgmosr55gh7arj4clp6oqbecli24ej6c5m76p9c49pn8sj9ddin8q3idtqmeq1279j62r3jckm24orfdhnn48hq49jmur3448m24ojfdhi24ej6c5m76pbt5hti4t35f1q24eh24186iorbc5s6a8hc49kn8obcd5hi4ej6c5m76p9c49hmur3fe8h3k8jcd5jmgt2ve1qn4s3cckh7qnbt14008j3fe9igg000002008rr49q6au3k48t248hc49ingt3ic4h3kmp285qn8rqjdlimot1094h5qv804dti4t35f1q24eh248m24pboehp628hqbch58pbcclo62t38f4g4i8itfk020up2ehingt1278h24b12cls78sj148t5m8i8c5pn8p9095b24nbt00s7m8jkcls788hq48h2o8j5f1q74o9279di4h31dln20t38d5pi0or1e9p6ut10c9p6aobbecg76t3fdpijufp049enq0000400agrfeln78080
+      Ignored_For_Permissions: []
+    carrot_axe:
+      Name: '&6Carrot&d Axe'
+      Weight: 25.0
+      Rarity: common
+      Broadcast: true
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Preview: 1800020009km800ndlkmspb3e9gmct1qdpin8q35e9kn8pavc5s6a2g00dq62poa003m8qbje1m62u890024orrick40000008020up2ehingt1278h24b12cls78sj148t5m8i8c5pn8p90954i4nbt00qnm8jkcls788hq48h2o8j5f1q74o9279di4l38d5pi0rreckg62r3jdsg6orrfddpi0tj5e9si0rr4cgg24nbt005004igelh6oqb389qmmqr9ehb62r3lclpgg00vcdp62ujpcln66q31dpq6qpbeehpjkoric5t7ipbecdk62rjkec01gup2cln66q31dpq768hqfch4gobjehii4ehiflug02801h2msor8c5n78rb5dpq762g00000220009km800kdlkmspb3e9gmct1qclj6cqb3d5imsorp08006r3mdg00a001005larj2e9im2qr1c9m6a08300348obdc5jma0000000600f8dqn6t3fdl6mup35dh262t31000000o00400agrfeln78080
+      Commands: []
+      Items:
+      - 1800020009km800ndlkmspb3e9gmct1qdpin8q35e9kn8pavc5s6a2g00dq62po3007k6tbjehnmqjbfchimoh31ehgg00000c5004igelh6oqb389qmmqr9ehb62r3lclpgg00vcdp62ujpcln66q31dpq6qpbeehpjkoric5t7ipbecdk62rjkec01gup2cln66q31dpq768hqfch4gobjehii4ehiflug02801h2msor8c5n78rb5dpq762g00000220009km800kdlkmspb3e9gmct1qclj6cqb3d5imsorp08006r3mdg00a001005larj2e9im2qr1c9m6a08300348obdc5jma0000000k007chkn6s3cc5sgi0049hnn4p88000000g041ti4t35f1q24eh248m24pboehp628hqbch4gobjehii0ia949enq01lfch78pboegh3k8h25gh6au3ke9gi4eir49a6gqbj41nmsp90c5m76rp0dhnmuqrj41r6asjp41nm8p1049enq0000400agrfeln78080
+      Ignored_For_Permissions: []
+    inf_grass:
+      Name: '&7Magical Grass Block'
+      Weight: 25.0
+      Rarity: common
+      Broadcast: true
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Preview: 5000080016ip002lmmirj5cdp62pjk79jn4objedfm4r3fcdlgk003ehgme2g00ti6isrgdhgni2000h762rb500knm8jkcls788hq48h2o8j5f1q74o9279di4jb1ctkm6827e9gn6sp089m6uorb49enq2800h66usj51000000202h7m8jkcls788hq48h2o8j5f1q74o9279dnm8jkcls788hq49a6gqbj41kn6831dog6irj6d5n6it3541h6orr3dch2o8jfc9j7asr3c5q6ap1279j62r3jckm24qbkc5m6iop279j62r3jckm24tbechin4r39dpim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8j3dtm6ush278h6esj5cln24b12c9nmop1279j62r3jclulqv80o9ti4t35f1q24eh248m24pboehp628hqbdti4t35f1q24eh28dnn6t10e1in483ledijk8125gh6uoj6elpm6obkcli24ej6c5m76p9c49kn8obcd5hi4ej6c5m76p9c49qmsp35e9m6irj5cgh3kpj1dhpmab12edq74qbbclq6gsjfeljmg8hqcpgmosr55gh66rrcdtp24eh2ctnmop125gh64rrccgh3kpj1dhpmav9cfch78pboegh3k8hg5oo24b12d5q62r39cch3kpj1dhpmab12cdnmorri48t24sj5cgh7qnbt005004igelh6oqb389qmmqr9ehb62r3lclpg400nd5n6cqbed5q6aojcdthmmspqd5n6cqbed5q6a001004g0325dphmgobeehmmarjkec500000044000j9cg012rb9dpim6sj1cpq3krb5dpi6irj708006r3mdg0020000400agrfeln78080
+      Commands: []
+      Items:
+      - 5000080016ip002lmmirj5cdp62pjk79jn4objedfm4r3fcdlgk003ehgme2g02987aojcd5hk4tbbddkn8lj1dhqmaso200bmirj6d5n6it35c9m6uorbect6irj6d5n6it35000g02g00ti6isrgdhgni2000h762rb500knm8jkcls788hq48h2o8j5f1q74o9279di4jb1ctkm6827e9gn6sp089m6uorb49enq2800h66usj51000000202h7m8jkcls788hq48h2o8j5f1q74o9279dnm8jkcls788hq49a6gqbj41kn6831dog6irj6d5n6it3541h6orr3dch2o8jfc9j7asr3c5q6ap1279j62r3jckm24qbkc5m6iop279j62r3jckm24tbechin4r39dpim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8j3dtm6ush278h6esj5cln24b12c9nmop1279j62r3jclulqv80o9ti4t35f1q24eh248m24pboehp628hqbdti4t35f1q24eh28dnn6t10e1in483ledijk8125gh6uoj6elpm6obkcli24ej6c5m76p9c49kn8obcd5hi4ej6c5m76p9c49qmsp35e9m6irj5cgh3kpj1dhpmab12edq74qbbclq6gsjfeljmg8hqcpgmosr55gh66rrcdtp24eh2ctnmop125gh64rrccgh3kpj1dhpmav9cfch78pboegh3k8hg5oo24b12d5q62r39cch3kpj1dhpmab12cdnmorri48t24sj5cgh7qnbt004g0325dphmgobeehmmarjkec500000044000j9cg012rb9dpim6sj1cpq3krb5dpi6irj708006r3mdg0020000400agrfeln78080
+      Ignored_For_Permissions: []
+    carrot_sword_sat:
+      Name: '&6Carrot&d Sword'
+      Weight: 25.0
+      Rarity: legendary
+      Broadcast: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Preview: 5000080016ip0035mmirj5cdp62pjk79n6at38clp6it35btpnerricg5000rkc5jgk007chkn6s3cc5sgg0049pgmqp80opti4t35f1q24eh248m24pboehp628hqbdti4t35f1q24eh28dgn4sjfegh2o8jfc9j7asr3c5q6ap1279j62r3jckm24qbkc5m6iop279j62r3jckm24tbechin4r39dpim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8j3dtm6ush278h6errccgh2o8j2dtm688hqcpgmosr5fkm7m8jkcls788hq48g56trfe9i24b12d5q62r39cch3kpj1dhpmab12cdnmorri48t24r39ctk78nrgelp70r3549ulqv890024orrick4000000803sup2ehingt1278h24b12cls78sj148t5m8jkd1kn682jetnn4p10d5pi0rb1chii0pjidtmi0o9091qmep908dgn4sjfegg24nbt04cnm8jkcls788hq48h2o8j5f1q74o9279dnm8jkcls788hq499m2t3le9gn8qbfdog24b12dth6ctbjcdgn8pb448t6cobcediio8j9ehgmoqb348t6cobcediio8jldpi6asjcd5n6ap1279j62r3jckm24srke9kmmpbkd1p6utb7d0h3kpj1dhpmab12cdnmorri48t24obhelgi4b12c9nmop1279j62r3jcluioup2ehingt1278h388125gh6it31dhkm68hqcpgmosr55gh66rrcdtp24eh2ctp6apbe49uioup2ehingt1278h3k8125gh6it31dhkm68hqcpgmosr55gh66rrcdtp24eh2ctp62u92fkm7m8jkcls788hq48ojisp25gh6it31dhkm68hqcpgmosr55gh66rrcdtp24eh2ctnmop12flenq0090064arj3d1gmst3dcln78soa000000880016ip002dmmirj5cdp62pjk79pmgobie1n6asrj08006r3mdg00a001005larj2e9im2qr1c9m6a08300348obdc5jma0000000600f8dqn6t3fdl6mup35dh262t3100005hg00400agrfeln78080
+      Commands: []
+      Items:
+      - 5000080016ip0035mmirj5cdp62pjk79n6at38clp6it35btpnerricg5000rkc5jgk007chkn6s3cc5sgg0049pgmqp80opti4t35f1q24eh248m24pboehp628hqbdti4t35f1q24eh28dgn4sjfegh2o8jfc9j7asr3c5q6ap1279j62r3jckm24qbkc5m6iop279j62r3jckm24tbechin4r39dpim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8j3dtm6ush278h6errccgh2o8j2dtm688hqcpgmosr5fkm7m8jkcls788hq48g56trfe9i24b12d5q62r39cch3kpj1dhpmab12cdnmorri48t24r39ctk78nrgelp70r3549ulqv890024orrick4000000803sup2ehingt1278h24b12cls78sj148t5m8jkd1kn682jetnn4p10d5pi0rb1chii0pjidtmi0o9091qmep908dgn4sjfegg24nbt04cnm8jkcls788hq48h2o8j5f1q74o9279dnm8jkcls788hq499m2t3le9gn8qbfdog24b12dth6ctbjcdgn8pb448t6cobcediio8j9ehgmoqb348t6cobcediio8jldpi6asjcd5n6ap1279j62r3jckm24srke9kmmpbkd1p6utb7d0h3kpj1dhpmab12cdnmorri48t24obhelgi4b12c9nmop1279j62r3jcluioup2ehingt1278h388125gh6it31dhkm68hqcpgmosr55gh66rrcdtp24eh2ctp6apbe49uioup2ehingt1278h3k8125gh6it31dhkm68hqcpgmosr55gh66rrcdtp24eh2ctp62u92fkm7m8jkcls788hq48ojisp25gh6it31dhkm68hqcpgmosr55gh66rrcdtp24eh2ctnmop12flenq0090064arj3d1gmst3dcln78soa000000880016ip002dmmirj5cdp62pjk79pmgobie1n6asrj08006r3mdg00a001005larj2e9im2qr1c9m6a08300348obdc5jma0000000600f8dqn6t3fdl6mup35dh262t3100005hg00400agrfeln78080
+      Ignored_For_Permissions: []
+Animation_Config: none
+Item:
+  Material: PLAYER_HEAD
+  SkinURL: 4fe16741de170d3a3d10bc25bf371df376073826adae739ec39f71a98c024e64
+  Durability: 3
+  Name: '&a_lil_K''s head'
+  Lore:
+  - '&aSpawned by &cHeyItzSock'
+Last_Opener: Inyofacelinux
+Last_Reward: '&6Carrot&d Axe'

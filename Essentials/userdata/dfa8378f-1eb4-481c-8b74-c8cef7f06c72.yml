@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719101244426
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719111143173
+  login: 1719110855058
+money: '1000000'
+last-account-name: BDPlaysLive
+lastlocation:
+  world: 344bd868-bbe8-47ab-b9bc-ff4610a792d9
+  world-name: world
+  x: 1091.5
+  y: 77.0
+  z: -468.5
+  yaw: 66.21923065185547
+  pitch: 20.328693389892578
+logoutlocation:
+  world: 344bd868-bbe8-47ab-b9bc-ff4610a792d9
+  world-name: world
+  x: 1102.1859052584643
+  y: 112.0
+  z: -461.2126750728488
+  yaw: -96.08352661132812
+  pitch: 4.256887435913086

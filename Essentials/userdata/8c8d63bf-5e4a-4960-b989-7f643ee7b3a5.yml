@@ -1,0 +1,43 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719109461352
+  login: 1719102770103
+  kits:
+    god: 1719005064485
+    tools: 1719012821082
+    dtools: 1719012596879
+    starter: 1719104673086
+money: '69'
+last-account-name: Inyofacelinux
+logoutlocation:
+  world: 344bd868-bbe8-47ab-b9bc-ff4610a792d9
+  world-name: world
+  x: 1080.0902715739855
+  y: 78.51535119754087
+  z: -475.38507051367424
+  yaw: 123.92652893066406
+  pitch: 16.90079116821289
+lastlocation:
+  world: 7f22a01e-8297-44c5-a4ee-de7aa663a1ca
+  world-name: world
+  x: -83.4545389905484
+  y: 200.0
+  z: -57.20549513283273
+  yaw: -98.21075439453125
+  pitch: 66.34053802490234
